@@ -1,8 +1,8 @@
 import React from 'react'
-import Background from "./bg.png";
+import Background from "./images/bg.png";
 import WaterWave from "react-water-wave";
-import lilyPad from './lily-pad2.png'
-import flower from './flower.png'
+import lilyPad from './images/lily-pad2.png'
+import flower from './images/flower.png'
 
 export default function Aquarium(props) {
 console.log(props.props)

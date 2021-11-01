@@ -1,9 +1,9 @@
 import React from 'react'
-import logo from './shortcut-script-app.png'
-import textLogo from './logo-light.svg'
-import fishIcon from './icons8-aquarium-50.png'
-import arrowIcon from './icons8-triangle-arrow-24.png'
-import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
+import logo from './images/shortcut-script-app.png'
+import textLogo from './images/logo-light.svg'
+import fishIcon from './images/icons8-aquarium-50.png'
+import arrowIcon from './images/icons8-triangle-arrow-24.png'
+import { Link } from 'react-router-dom'
 
 
 export default function Nav(props) {
